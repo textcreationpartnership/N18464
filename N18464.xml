@@ -121,8 +121,9 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:023952_0000_0FC35A2DA9443968"/>
-            <pb facs="tcp:023952_0001_0FC35A39345E43E8" rendition="simple:additions"/>
+            <pb facs="unknown:023952_0000_0FC35A2DA9443968"/>
+            <pb facs="unknown:023952_0001_0FC35A39345E43E8"
+                rendition="simple:additions"/>
             <p>THREE <hi>Inſtructive Dialogues,</hi> BETWEEN A TRUE GOSPEL MINISTER AND ONE OF HIS PARISHONERS, UPON THE CHRISTIAN RELIGION.</p>
             <p>By the Rev. Archdeacon VIVIAN, <hi>Devonſhire.</hi>
             </p>
@@ -131,15 +132,15 @@
                <hi>BALTIMORE:</hi> Printed by DAVID GRAHAM, in <hi>Calvert-ſtreet,</hi> between <hi>Market-ſtreet</hi> and the <hi>Court-Houſe.</hi> MDCCXCI</p>
          </div>
          <div type="to_the_reader">
-            <pb facs="tcp:023952_0002_0FC35A4226976500"/>
+            <pb facs="unknown:023952_0002_0FC35A4226976500"/>
             <head>TO THE PARISHONERS OF ST. SAVIOUR's SOUTHWARK.</head>
             <opener>
                <salute>My dear People,</salute>
             </opener>
             <p>THE following Dialogues were written by a worthy clergyman of our own church, and have been already made very uſeful to many perſons. In hopes that they will be made equally uſeful to <hi>you,</hi> I am encouraged to re-print them, and to put them into your hands—They contain the ſubſtance of what I have delivered to you from the pulpit, and are entirely agreeable to the doctrine of Scripture, and of the church of <hi>England,</hi> I may therefore, with great ſafety, recommend them (as I hereby do) to your ſerious and attentive peruſal. I have long had it upon my mind, that it was my bounden duty, as your miniſter to viſiſt you "from houſe to houſe," and enforce the truths of the goſpel upon you. I am now determined by the the grace of God, to ſet about this important part of my office—Let me hope my dear people will give me a favourable reception, and pay a regard to my well-meant admonitions. 'Tis impoſſible for me to addreſs every perſon, in this large and populous pariſh, ſo particularly as could be wiſhed: permit me, therefore, to convey my ad<g ref="char:EOLhyphen"/>vice in the following Dialogues. They ſpeak my
-<pb n="iv" facs="tcp:023952_0003_0FC35A4683F9A3A0"/>
+<pb n="iv" facs="unknown:023952_0003_0FC35A4683F9A3A0"/>
 whole heart upon the matter, and are ſo judiciouſly executed, that, while the moſt improved readers will find much in them both for edification and de<g ref="char:EOLhyphen"/>light, the plaineſt and ſimpleſt capacities may under<g ref="char:EOLhyphen"/>ſtand and be benefited by them. Let me then intreat your candid attention to theſe Dialogues. They con<g ref="char:EOLhyphen"/>tain whatever I would ſay to you one by one, were I to addreſs you ſingly, and are much better executed than any thing of my own upon the ſubject would be. It may not be amiſs to add that they are wrote by a father in Chriſt, one who has a pariſh of his own, and who is a faithful preacher of the goſpel of our dear Saviour. God grant you may read them in the ſame ſpirit they were wrote in! then I am perſuaded you will receive a bleſſing from the peruſal. In the name of my Maſter then, I pay you this friendly vi<g ref="char:EOLhyphen"/>ſit, and intreat your acceptance of this little book. For his ſake I beſeech you ſeriouſly to conſider the truths contained therein. Thoſe of you who live without any concern for your poor ſouls, I would earneſtly call upon to attend with diligence to the "things that belong unto their peace." Theſe, and all ſuch as are contented with a bare profeſſion, and the mere externals of religion, would do well to conſider the firſt Dialogue. Thoſe of you who are ſeeking the kingdom of heaven (and I truſt I have many ſuch among you) will find ſome uſeful directi<g ref="char:EOLhyphen"/>ons in the ſecond; and the ſoul, which is juſtified by faith, will meet with very profitable inſtruction in the third. I would adviſe you, however, to give them all a ſerious reading; although I recommend it to you to fix your particular attention upon that Di<g ref="char:EOLhyphen"/>alogue that ſuits your ſtate—My dear brethren, I wiſh you knew how earneſtly I "long for your ſouls "in the bowels of Jeſus Chriſt;" how ſincerely I deſire your ſalvation. An eternity is before you: Oh that I might be inſtrumental to your finding that eter<g ref="char:EOLhyphen"/>nity a bleſſed one! With this deſire I beg leave to wait on you and preſent you with theſe Dialogues.
-<pb n="v" facs="tcp:023952_0004_0FC35A48ED551E28"/>
+<pb n="v" facs="unknown:023952_0004_0FC35A48ED551E28"/>
 I need no apology for taking this liberty, ſince my office allows me to take it. I would rather aſk Par<g ref="char:EOLhyphen"/>don for having neglected it ſo long. But, for the future, I intend, God willing, to renew my viſits once a year, while he ſhall ſpare me to "labour amongſt you." I likewiſe invite all ſuch of my pa<g ref="char:EOLhyphen"/>riſh as are willing to receive any little inſtructions I can give them, the pooreſt among you I invite, to come to me whenever they chuſe, with all the freedom of a friend, and with all the confidence of a brother. My dear people, indeed I bear you on my heart. Were you my parents or my brethren, I could not love you more affectionately than I do. "I ſeek not yours but you," only glorify my bleſſed Maſter, by ſtriving in earneſt to enter into the kingdom of heaven, and I have my reward.—May the bleſſed Jeſus incline your hearts to ſeek his face here, that you may be glorified with him hereafter! This, you may be aſſured is my hearty prayer to God for you. I often remember you at the throne of grace, let me intreat <hi>your</hi> prayers for <hi>me</hi> in return. I am, with great reſpect and eſteem.</p>
             <closer>
                <salute>My dear people,</salute>
@@ -150,7 +151,7 @@ I need no apology for taking this liberty, ſince my office allows me to take it
       </front>
       <body>
          <div n="1" type="dialogue">
-            <pb facs="tcp:023952_0005_0FC35A4D660A7AC8"/>
+            <pb facs="unknown:023952_0005_0FC35A4D660A7AC8"/>
             <p>DIALOGUE I. BETWEEN A <hi>Miniſter</hi> and one of his <hi>Pariſhioners.</hi>
             </p>
             <sp>
@@ -175,7 +176,7 @@ I need no apology for taking this liberty, ſince my office allows me to take it
                </p>
             </sp>
             <sp>
-               <pb n="8" facs="tcp:023952_0006_0FC35A4EB3BB6880"/>
+               <pb n="8" facs="unknown:023952_0006_0FC35A4EB3BB6880"/>
                <speaker>P.</speaker>
                <p>Lord! Sir, why ſhould you entertain ſuch un<g ref="char:EOLhyphen"/>charitable thoughts of us?</p>
             </sp>
@@ -211,7 +212,7 @@ I need no apology for taking this liberty, ſince my office allows me to take it
                <p>Yes, all of them. Have you never loved any worldly thing more than God and his favour? not feared any thing more than his diſpleaſure, ſo as to neglect a known <gap reason="illegible" resp="#UOM" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap> rather than draw upon your<g ref="char:EOLhyphen"/>ſelf ſome temporal inconvenience? This was a breach
-<pb n="9" facs="tcp:023952_0007_0FC35A5D4CE52D90"/>
+<pb n="9" facs="unknown:023952_0007_0FC35A5D4CE52D90"/>
 of the <hi>firſt</hi> commandment. The <hi>ſecond</hi> command<g ref="char:EOLhyphen"/>ment reſpects the <hi>manner of expreſſing</hi> the devotion of the heart; and therefore, whatever in your ſer<g ref="char:EOLhyphen"/>vice has been unbecoming, ſuch as <hi>wandering thoughts, careleſſneſs</hi> and <hi>irreverence,</hi> as well as <hi>uſing images,</hi> is a breach of this commandment: So is alſo neglect of GOD's ſervice. And here you will not pretend, I ſuppoſe, to be <hi>not guilty.</hi> Conſequently your com<g ref="char:EOLhyphen"/>ing to church and ſacrament in this manner deſerves rather to be reckoned among your ſins, than tuſted to for juſtification before GOD. But a few minutes ago, in my hearing, you <hi>took the Lord's name in vain,</hi> uſing it needleſly, and without an awful ſenſe, of his Majeſty, of whom you ſpake. You have done the ſame perhaps ten thouſand times in your life. This is a breach of the <hi>third</hi> commandment. Whenever you have neglected to attend on GOD's worſhip on the <hi>Sabbath</hi> without a neceſſary hindrance, ſuffered worldly thoughts to unfit you for GOD's ſervice, done worldly buſineſs on that day that might be done on another, and neglected to devote the whole to GOD, by <hi>reading, hearing, prayer, meditation</hi> and <hi>uſe<g ref="char:EOLhyphen"/>ful converſation</hi>—you have profaned the LORD's day. The ſubſtance of theſe commandments is, <hi>Thou ſhalt love the</hi> LORD <hi>thy</hi> GOD <hi>with all thy heart:</hi> But you have come ſhort of this whenever you have not acted to the glory of GOD. Now what think you of your innocence with reſpect to the duties of the firſt table?</p>
             </sp>
             <sp>
@@ -223,7 +224,7 @@ of the <hi>firſt</hi> commandment. The <hi>ſecond</hi> command<g ref="char:EOL
                <speaker>M.</speaker>
                <p>You would not ſay ſo, if you underſtood the ſpirituality and extent of GOD's commandments, as explained by our LORD in his <hi>ſermon on the mount.</hi> There you find that <hi>concupiſcence</hi> in the eye or heart is eſteemed <hi>adultery</hi> in the ſight of GOD; and cauſe<g ref="char:EOLhyphen"/>leſs <hi>anger,</hi> and eſpecially injurious language, is ac<g ref="char:EOLhyphen"/>counted a degree of <hi>murder:</hi> And who can acquit himſelf of theſe?</p>
                <p>
-                  <pb n="10" facs="tcp:023952_0008_0FC35A6621E5AC60"/>If you take the ſame method to underſtand the o<g ref="char:EOLhyphen"/>ther commandments, all parts of your behaviour that are unſuitable to the ſtation in which Providence hath placed you, all <hi>irreverence</hi> and proud cenſuring of your <hi>ſuperiors,</hi> and all unkind and injurious treat<g ref="char:EOLhyphen"/>ment of thoſe that are <hi>beneath</hi> you, will appear to be breaches of the <hi>fifth</hi> commandment. All <hi>evil ſpeaking, raſh cenſuring,</hi> and <hi>repeating of ſtories</hi> injurous to the characters of others, are contrary to the <hi>ninth:</hi> And all <hi>murmuring</hi> and <hi>diſcontent, envy</hi> and <hi>greedineſs,</hi> are ſins forbidden by the <hi>tenth.</hi>
+                  <pb n="10" facs="unknown:023952_0008_0FC35A6621E5AC60"/>If you take the ſame method to underſtand the o<g ref="char:EOLhyphen"/>ther commandments, all parts of your behaviour that are unſuitable to the ſtation in which Providence hath placed you, all <hi>irreverence</hi> and proud cenſuring of your <hi>ſuperiors,</hi> and all unkind and injurious treat<g ref="char:EOLhyphen"/>ment of thoſe that are <hi>beneath</hi> you, will appear to be breaches of the <hi>fifth</hi> commandment. All <hi>evil ſpeaking, raſh cenſuring,</hi> and <hi>repeating of ſtories</hi> injurous to the characters of others, are contrary to the <hi>ninth:</hi> And all <hi>murmuring</hi> and <hi>diſcontent, envy</hi> and <hi>greedineſs,</hi> are ſins forbidden by the <hi>tenth.</hi>
                </p>
             </sp>
             <sp>
@@ -249,7 +250,7 @@ of the <hi>firſt</hi> commandment. The <hi>ſecond</hi> command<g ref="char:EOL
             <sp>
                <speaker>M.</speaker>
                <p>Therefore you think you need not be grealty troubled, if you are ſo too; but hope to paſs in the crowd. Does not ſome ſuch thought as that lurk at the bottom? But what ſignify numbers with GOD, whoſe all ſearching eye no man can lie concealed
-<pb n="11" facs="tcp:023952_0009_0FC35A6B4A90D580"/>
+<pb n="11" facs="unknown:023952_0009_0FC35A6B4A90D580"/>
 from, and whoſe arm none can reſiſt or eſcape? Had you lived in <hi>Sodom,</hi> or the old world, this ſame thought might have lulled you aſleep in the prevail<g ref="char:EOLhyphen"/>ing abominations, but would not ſave you from the overflowing <hi>deluge,</hi> nor the ſtreams of <hi>fire.</hi>
                </p>
             </sp>
@@ -285,7 +286,7 @@ from, and whoſe arm none can reſiſt or eſcape? Had you lived in <hi>Sodom,</
             <sp>
                <speaker>M.</speaker>
                <p>You ſay very right. Firſt, then, let us examine your <hi>repentance.</hi> Now true repentance implies a ſenſe of ſin, its odiouſneſs and deformity, a hatred of it,
-<pb n="12" facs="tcp:023952_0010_0FC35A6BF41BF358"/>
+<pb n="12" facs="unknown:023952_0010_0FC35A6BF41BF358"/>
 humilation and ſelf loathing on account of it, an actual forſaking of it, and a turning to GOD by new<g ref="char:EOLhyphen"/>neſs of life. Is your repentance ſuch as this?</p>
             </sp>
             <sp>
@@ -321,7 +322,7 @@ humilation and ſelf loathing on account of it, an actual forſaking of it, and 
             <sp>
                <speaker>M.</speaker>
                <p>GOD does not deal with all exactly in the ſame way. But take heed you do not depend too much
-<pb n="13" facs="tcp:023952_0011_0FC35A70F2ED79C0"/>
+<pb n="13" facs="unknown:023952_0011_0FC35A70F2ED79C0"/>
 upon theſe privileges. You were early baptized; but ſearch your heart and life. Have you not lived for a long time together as <hi>without God in the world?</hi> Inſtead of <hi>renouncing</hi> the <hi>world,</hi> and <hi>fleſh,</hi> and <hi>devil,</hi> have you not <hi>followed,</hi> and <hi>been led by them?</hi> Have you not been led by the world in judging of things according to the opinions of men, in oppoſition to the word of GOD? Have you not in many things conformed to its cuſtoms, contrary to the commands of GOD? Have you not frequently obeyed your <hi>car<g ref="char:EOLhyphen"/>nal luſts</hi> and <hi>inclinations,</hi> ſo as to violate frequently the pure law of GOD, if not by actual offences, yet by indulging evil thoughts, and living in leſſer ſins without concern? And has not the <hi>devil</hi> been for a conſiderable time your maſter, leading you to of<g ref="char:EOLhyphen"/>fend GOD by profaning his holy name and holy day, and that for the ſake of ſuch a trifling pleaſure, as plainly argues his aſcendancy over you? And have you not continued ſtill in theſe things with little or no concern, hoping not withſtanding that all would be well? Nay, is not this ſtill in ſome meaſure your caſe?— I ſee you acknowledge it is. It is plain then, your baptiſmal vow and covenant is broken; and there is an abſolute neceſſity of turning unto GOD, and begining all anew.</p>
             </sp>
             <sp>
@@ -339,7 +340,7 @@ upon theſe privileges. You were early baptized; but ſearch your heart and life
             <sp>
                <speaker>M.</speaker>
                <p>Theſe are good reſolutions, but they do not ſeem to proceed from a right principle. You would forſake ſin, and do better, I ſee, with ſome ſecret dependance upon your amendment and doings, that theſe will <hi>fit</hi> you for acceptance, and <hi>gain</hi> you an in<g ref="char:EOLhyphen"/>tereſt in CHRIST: But this is a legal ſpirit of ſelf-dependance,
-<pb n="14" facs="tcp:023952_0012_0FC35A720D422A40"/>
+<pb n="14" facs="unknown:023952_0012_0FC35A720D422A40"/>
 a <hi>going about to eſtabliſh your own righte<g ref="char:EOLhyphen"/>ouſneſs.</hi> When I ſee you acknowledge yourſelf <hi>ſin<g ref="char:EOLhyphen"/>ful, vile</hi> and <hi>baſe,</hi> and, like <hi>Job, abhorring yourſelf;</hi> when I ſee you ſenſible that you are <hi>unworthy</hi> of the leaſt mercy, and <hi>unable</hi> of yourſelf to do any good thing; when I ſee you <hi>renouncing</hi> your beſt deeds as defiled by ſin, caſting yourſelf before GOD as <hi>loſt</hi> and <hi>helpleſs,</hi> having no hope in yourſelf, but ſupported only by the promiſe of ſalvation made in JESUS CHRIST; when this is not only the language of the tongue, but theſe convictions are deeply impeſſed on the heart—When this is your caſe, I ſhall think a real work of grace is begun in your ſoul.</p>
             </sp>
             <sp>
@@ -360,7 +361,7 @@ a <hi>going about to eſtabliſh your own righte<g ref="char:EOLhyphen"/>ouſne�
                <speaker>M.</speaker>
                <p>I doubt you never believed at all, properly ſpeaking: But of this I will talk more with you an<g ref="char:EOLhyphen"/>other time. At preſent, it is plain, your <hi>repentance</hi> has not been <hi>real.</hi> You never ſaw and felt your dan<g ref="char:EOLhyphen"/>ger, conſequently could never be ſo deſirous of eſcap<g ref="char:EOLhyphen"/>ing it as is neceſſary. You always flattered your<g ref="char:EOLhyphen"/>ſelf with ſome hopes that your ſtate was ſafe, or cer<g ref="char:EOLhyphen"/>tainly would be, when you lived a little better; which was at bottom depending on yourſelf, with reſpect to the branches of repentance, ſuch as <hi>for<g ref="char:EOLhyphen"/>ſaking ſin</hi>—it is evident to yourſelf you have lived without concern in ſome leſſer habitual ſins ; and, as for <hi>turning to</hi> GOD, you were never ſenſible, that in the <hi>ſtream of your affections</hi> and <hi>the general courſe of your life,</hi> you were turned from him.</p>
                <p>Indeed (though you ſeem not to know it) the ru<g ref="char:EOLhyphen"/>ling principle in you, and every <hi>natural man,</hi> is a
-<pb n="15" facs="tcp:023952_0013_0FC35A7375413D60"/>
+<pb n="15" facs="unknown:023952_0013_0FC35A7375413D60"/>
 principle of ſin and corruption. Inſtead of ſeeking to pleaſe GOD, you have all along been ſeeking to pleaſe yourſelf; to procure ſome gratification to cor<g ref="char:EOLhyphen"/>rupted nature, ſuch as ſenſual delights, riches, world<g ref="char:EOLhyphen"/>ly eſteem, eaſe, or the like. This hath been the acting principle throughout your whole conduct, in<g ref="char:EOLhyphen"/>ſtead of obeying that command, <hi>do all to the glory of GOD.</hi> Nay, if you ſearch narrowly, you will find in your heart an <hi>enmity againſt GOD.</hi> For ſo ſaith the apoſtle, Rom. viii. 7. <hi>The carnal mind</hi> (and ſuch is every man's by nature) is <hi>enmity againſt GOD.</hi> And this <hi>enmity</hi> ſhews itſelf in oppoſing GOD's will, by doing what he hath forbidden, and leaving undone what he hath commanded; and alſo in flying from GOD as your enemy, and endeavouring to hide your<g ref="char:EOLhyphen"/>ſelf from him like <hi>Adam.</hi> Have you not paſſed days and weeks without one ſerious thought of GOD, though you were all that time receiving mercies at his hand? Have you not baniſhed and ſuppreſſed ſuch thoughts, when they have riſen in your mind? Have you not fled from ſerious thoughts of GOD and eternity, as enemies to your peace, and drown<g ref="char:EOLhyphen"/>ed them in worldly cares, vain converſation, and idle amuſements? Have you not thus fled from GOD, You know you have.—Hitherto, ſuffer me to be plain with you, you have gone wrong, and have been inſenſible of your danger, deceived yourſelf, and <hi>ſpoken peace</hi> to your ſoul, <hi>when there was no peace.</hi> Now con<g ref="char:EOLhyphen"/>ſider what you have heard from me, read your Bible, examine yourſelf, and pray unto GOD to give you a ſenſe of your real ſtate, and a right judgement in all things.</p>
             </sp>
          </div>
@@ -371,7 +372,7 @@ principle of ſin and corruption. Inſtead of ſeeking to pleaſe GOD, you have 
                <p>I WAS in hopes of ſeeing you before now, <hi>Farm<g ref="char:EOLhyphen"/>er,</hi> that we might have an opportunity of talk<g ref="char:EOLhyphen"/>ing together again on the ſame important ſubject.</p>
             </sp>
             <sp>
-               <pb n="16" facs="tcp:023952_0014_0FC35A7D69078E28"/>
+               <pb n="16" facs="unknown:023952_0014_0FC35A7D69078E28"/>
                <speaker>P.</speaker>
                <p>Indeed, Sir, if I may make ſo bold, I muſt ſay I did not like what you ſaid ſo well, as to deſire to hear any more of it. And I ſhould not have come to you now, had it not been for ſomething I heard in your ſermon yeſterday.</p>
             </sp>
@@ -419,7 +420,7 @@ principle of ſin and corruption. Inſtead of ſeeking to pleaſe GOD, you have 
             <sp>
                <speaker>M.</speaker>
                <p>You have great reaſon to be afraid. I told you, that thoſe would be eſteemed <hi>righteous</hi> on that
-<pb n="17" facs="tcp:023952_0015_0FC35A8CCDDCEF58"/>
+<pb n="17" facs="unknown:023952_0015_0FC35A8CCDDCEF58"/>
 day, who had fled to the LORD JESUS CHRIST, for righteouſneſs to juſtify them, and had been made ho<g ref="char:EOLhyphen"/>ly by the Spirit of GOD, creating in them a <hi>new heart,</hi> and had evidenced this change by an holy converſa<g ref="char:EOLhyphen"/>tion through the remaining part of their life, how many or great ſoever their ſins had been: And that the <hi>wicked</hi> were thoſe that had lived and died with<g ref="char:EOLhyphen"/>out faith in CHRIST, and the indwelling of GOD's Spirit, however orderly and decent their conduct was.</p>
             </sp>
             <sp>
@@ -431,7 +432,7 @@ day, who had fled to the LORD JESUS CHRIST, for righteouſneſs to juſtify them
             <sp>
                <speaker>M.</speaker>
                <p>The <hi>wicked,</hi> that is, they that lived and died without an humbling ſenſe of their natural corrupti<g ref="char:EOLhyphen"/>on and actual ſins, ſo as never by faith to fly for re<g ref="char:EOLhyphen"/>fuge to GOD's mercy in CHRIST, have, properly ſpeaking, no good works to be mentioned, for all they do is from a wrong principle; either for ſelfiſh or worldly ends, or in order to be accepted on ac<g ref="char:EOLhyphen"/>count of their <hi>doings;</hi> which is ſeeking ſalvation <hi>by the law of works.</hi> On this account their works are not regarded, being not <hi>done in faith;</hi> that is, not proceeding from an union with CHRIST by faith, <hi>without whom we can do nothing</hi> acceptable in GOD's ſight. <hi>John</hi> xv. 5. On the other hand, the <hi>righte<g ref="char:EOLhyphen"/>ous</hi> being themſelves accepted through CHRIST, their ſins are not mentioned, becauſe long before <hi>forgiven</hi> and <hi>blotted out:</hi> And their <hi>imperfect ſervices</hi> being ac<g ref="char:EOLhyphen"/>cepted through JESUS their <hi>High-prieſt,</hi> who <hi>bears
-<pb n="18" facs="tcp:023952_0016_0FC35AA6C02648C8"/>
+<pb n="18" facs="unknown:023952_0016_0FC35AA6C02648C8"/>
 the iniquity of their holy things,</hi> receive at the hands of their bountiful <hi>Judge</hi> a reward of grace. So that which <hi>principally</hi> diſtinguiſhes the <hi>godly</hi> from the <hi>un<g ref="char:EOLhyphen"/>godly,</hi> is, that the one is accepted as righteous, and has obtained forgiveneſs through CHRIST, according to the new or goſpel covenant: The other, never being deeply ſenſible of his ſinful loſt ſtate (indeed too proud to acknowledge it) hath not applied for the mercy repreſented in the goſpel, and ſo at the day of judgment ſtands on his own bottom, without a mediator, and without forgiveneſs, and therefore muſt be condemned.</p>
             </sp>
             <sp>
@@ -447,7 +448,7 @@ the iniquity of their holy things,</hi> receive at the hands of their bountiful 
                <p>I always thought that we <hi>chriſtians</hi> were all <hi>be<g ref="char:EOLhyphen"/>lievers,</hi> one as much as another: And that at the day of judgment they would be reckoned <hi>godly</hi> that lived <hi>orderly</hi> and <hi>uprightly,</hi> among whom I reckoned myſelf and all were better than I; and that the <hi>profane</hi> and <hi>ungodly,</hi> and all that were <hi>ſecretly wicked</hi> and <hi>ill-deſigned,</hi> would be condemned. Indeed I had always ſome fears that I was not <hi>good enough:</hi> I did not know how great a number would be acknowledged righteous; but I thought I ſtood a better chance than many, or moſt that I knew.</p>
             </sp>
             <sp>
-               <pb n="19" facs="tcp:023952_0017_0FC35AB4CA3C6838"/>
+               <pb n="19" facs="unknown:023952_0017_0FC35AB4CA3C6838"/>
                <speaker>M.</speaker>
                <p>You did not learn this from the word of GOD. But what think you now?</p>
             </sp>
@@ -500,7 +501,7 @@ the iniquity of their holy things,</hi> receive at the hands of their bountiful 
                <p>I ſee no way—If ever there was a loſt ſoul, I am lie. What ſhall I do?</p>
             </sp>
             <sp>
-               <pb n="20" facs="tcp:023952_0018_0FC35AC2466344E8"/>
+               <pb n="20" facs="unknown:023952_0018_0FC35AC2466344E8"/>
                <speaker>M.</speaker>
                <p>
                   <hi>Believe on the LORD JESUS CHRIST, and thou ſhalt be ſaved,</hi> Acts xvi. 31. <hi>This is the work of GOD, that ye believe on him whom he hath ſent,</hi> John vi. 29. <hi>and by him all that believe are juſtified from all things,</hi> Acts xiii. 39. Come, <hi>naked, ſinful,</hi> and <hi>helpleſs</hi> as ye are, to GOD through CHRIST for mercy. <hi>He is able to ſave to the uttermoſt all thoſe that come unto GOD through him, ſeeing he</hi> hath died for them, and <hi>ever liveth to make interceſſion for them.</hi> Heb. vii. 25. He can waſh you from the guilt of all your ſins, deſtroy the power and dominion of ſin in you, <hi>ſanctify you throughly in body, ſoul and ſpirit,</hi> and <hi>preſent you to the Father without ſpot or blemiſh.</hi>
@@ -534,7 +535,7 @@ the iniquity of their holy things,</hi> receive at the hands of their bountiful 
                <p>If you are weary with the burthen of ſin, loath it, and earneſtly deſire to be ſaved from the guilt and pollution of it;—A true <hi>repentance</hi> is begun in you. And if for this purpoſe you apply unto CHRIST as held forth in the goſpel, this is the faith that ſaveth. And, for <hi>baptiſm</hi>—you are already baptized with water; and if you are willing to renew and confirm your baptiſmal vow, come unto CHRIST, out of his fulneſs, to receive the inward and ſpiritual grace, the <hi>baptiſm of fire</hi> and <hi>of the Holy Ghoſt:</hi> For he alone can give it.</p>
             </sp>
             <sp>
-               <pb n="21" facs="tcp:023952_0019_0FC35AC692085158"/>
+               <pb n="21" facs="unknown:023952_0019_0FC35AC692085158"/>
                <speaker>P.</speaker>
                <p>It is ſaid, <hi>Many ſhall ſeek to enter in, and ſhall not be able;</hi> and, <hi>Not every one that ſaith unto me, Lord! Lord! ſhall enter into the kingdom of heaven.</hi> This makes me fear, and keep at a diſtance.</p>
             </sp>
@@ -572,7 +573,7 @@ the iniquity of their holy things,</hi> receive at the hands of their bountiful 
                <p>I <hi>dare</hi> not thus embrace the promiſes, come to and depend on CHRIST, for I am utterly <hi>unworthy</hi> of the leaſt mercy.</p>
             </sp>
             <sp>
-               <pb n="22" facs="tcp:023952_0020_0FC35AC78DBF7090"/>
+               <pb n="22" facs="unknown:023952_0020_0FC35AC78DBF7090"/>
                <speaker>M.</speaker>
                <p>When do you think you ſhall make yourſelf worthy?</p>
             </sp>
@@ -609,7 +610,7 @@ the iniquity of their holy things,</hi> receive at the hands of their bountiful 
                <p>This is what I ſaid before: Faith is not of man, but the gift of GOD, wrought by the SPIRIT in them that hear the goſpel. Therefore ſeek this and every other grace of GOD by prayer, in the name of JESUS. And, to encourage you in this, conſider that God gave CHRIST for this purpoſe, <hi>to ſave ſinners:</hi> For this he came into the world; for this he laboured, wept, and bled; for this he reigns and intercedes in heaven. He is ſo far from being unwilling to ſave, that he is offended with them, when they will not come to him to be ſaved. When he was upon earth, he wept over <hi>Jeruſalem</hi> on this account.</p>
             </sp>
             <sp>
-               <pb n="23" facs="tcp:023952_0021_0FC35AC8F0803AB0"/>
+               <pb n="23" facs="unknown:023952_0021_0FC35AC8F0803AB0"/>
                <speaker>P.</speaker>
                <p>I know not what to ſay.</p>
             </sp>
@@ -648,7 +649,7 @@ the iniquity of their holy things,</hi> receive at the hands of their bountiful 
             <sp>
                <speaker>P.</speaker>
                <p>Sins committed many years ago have now riſen in my mind, and condemned me. The remem<g ref="char:EOLhyphen"/>brance
-<pb n="24" facs="tcp:023952_0022_0FC35ACA6F6F7A78"/>
+<pb n="24" facs="unknown:023952_0022_0FC35ACA6F6F7A78"/>
 of the ſins of my youth has followed me, as if committed but yeſterday. And ſome hard ſcrip<g ref="char:EOLhyphen"/>tures, that I have heard and read, ſeem to be ſen<g ref="char:EOLhyphen"/>tences of <hi>my</hi> condemnation. I believe I have thought an hundred times of thoſe words: <hi>The wages of ſin is death.</hi>
                </p>
             </sp>
@@ -667,14 +668,14 @@ of the ſins of my youth has followed me, as if committed but yeſterday. And ſ
             <sp>
                <speaker>P.</speaker>
                <p>Really, Sir, I have had ſome fear of that. For you muſt know that one day I was thinking what a ſinful wretch I was, and what would become of me in the next world; when theſe words came ſtrongly into my mind; <hi>I will heal their backſlidings, I will love
-<pb n="25" facs="tcp:023952_0023_0FC35AD885AA39D0"/>
+<pb n="25" facs="unknown:023952_0023_0FC35AD885AA39D0"/>
 them freely.</hi> I am ſure they are ſomewhere in the Bible, but I cannot find them. However, they gave me much comfort, and I have been very eaſy ever ſince. Now a neighbour that I have been talking with, tells me, "This is to be looked on as a word from God," and that I am from henceforth to look on myſelf as a converted man. But I fear this would be preſumption. Now what do you think of this?</p>
             </sp>
             <sp>
                <speaker>M.</speaker>
                <p>I muſt deſire ſome time to reſolve this queſtion: ſeven years, at leaſt, before I can give a poſitive anſwer to it.</p>
                <p>The words you mentioned are in the prophet <hi>Ho<g ref="char:EOLhyphen"/>ſea,</hi> xiv. 4. They were perhaps ſpoken more im<g ref="char:EOLhyphen"/>mediately of the reſtoration of the captive <hi>Jews:</hi> But they contain a ſweet promiſe perfectly in the goſpel ſtrain, and are therefore free for every hum<g ref="char:EOLhyphen"/>ble ſoul to embrace by faith. The prophet you ſee at verſe 1, 2, 3, exhorts the people to repentance and humiliation for ſin: <hi>O Iſrael, return unto the LORD thy GOD; for thou haſt fallen by iniquity. Take with you words, and turn to the LORD. Say unto him, Take away all iniquity, and receive us graciouſly.— For in thee the fatherleſs findeth mercy.</hi> Now, as God hath given you a ſenſe of your ſinful, helpleſs ſtate, and a deſire of turning to him, like this which the prophet here deſcribes as preparatory to an anſwer of peace. I hope the following promiſe belongs to you: <hi>I will heal their backſliding, I will love them free<g ref="char:EOLhyphen"/>ly; for my anger is turned away from him,</hi> verſe 4. I hope too, that comfort, which you found in apply<g ref="char:EOLhyphen"/>ing the promiſe to yourſelf by a particular faith, proceedeth from the Spirit of God. In the ſame manner as I look on that conviction of ſin, which filled you with fear and ſelf-abaſement, when you called to mind your ſinfulneſs and God's judgment denounced againſt ſinners, to be the work of the ſame Spirit. For it is he that <hi>convinceth the world of ſin and of righteouſneſs.</hi> But this I muſt tell you: All theſe feelings are to be ſuſpected, till we ſee what
-<pb n="26" facs="tcp:023952_0024_0FC35ADCB26AA590"/>
+<pb n="26" facs="unknown:023952_0024_0FC35ADCB26AA590"/>
 fruit follows in the heart and life. For though, theſe are ſometimes owing to the Spirit of God, and come well recommended, when, as in your caſe, they are ſo cloſely connected with the word of God; yet <hi>the enemy of ſouls</hi> ſometimes imitates theſe ſenſible expe<g ref="char:EOLhyphen"/>riences in order to deceive. And it is impoſſible to ſay how much our natural temper and ſpirit may contribute thereto.</p>
             </sp>
             <sp>
@@ -695,7 +696,7 @@ fruit follows in the heart and life. For though, theſe are ſometimes owing to 
                <p>Very well. Theſe are good ſigns. But this is the fervour of your <hi>firſt love.</hi> It will not always be ſo with you<note n="*" place="bottom">'Tis true moſt loſe the fervour of their firſt love, but none <hi>reed,</hi> ſince <hi>the Lord is able to ſave to the uttermoſt,</hi> Heb. vii<gap reason="illegible" resp="#UOM" extent="1 letter">
                         <desc>•</desc>
                      </gap>. 25.</note>. So was it with the <hi>Iſraelites</hi> after
-<pb n="27" facs="tcp:023952_0025_0FC35AEA101F0B70"/>
+<pb n="27" facs="unknown:023952_0025_0FC35AEA101F0B70"/>
 paſſing the <hi>Red Sea,</hi> the <hi>Galatians,</hi> and the church of <hi>Epheſus.</hi> But each of theſe grew colder after<g ref="char:EOLhyphen"/>wards: And the prophet <hi>Jeremiah</hi> ii. 2. St. <hi>Paul, Gal.</hi> iv. 15. and our Lord, <hi>Rev.</hi> ii. 4. reprove them for it.</p>
             </sp>
             <sp>
@@ -711,13 +712,13 @@ paſſing the <hi>Red Sea,</hi> the <hi>Galatians,</hi> and the church of <hi>Ep
                      <desc>〈◊〉</desc>
                   </gap> alſo upon the remains of indwelling ſin ſtill in you. And let every ſinful inclination, vain thought, backwardneſs to duty, and failure in it, teach you to be humble and fear. Thus, diſtruſting yourſelf, look up to God for continual ſupport, like an helpleſs little child; expecting, through the mediation of Jeſus Chriſt, to be aſſiſted in every time of need.</p>
                <p>My next advice is, Keep <hi>a conſcience void of of<g ref="char:EOLhyphen"/>fence.</hi> If you have wronged any man, be not aſham<g ref="char:EOLhyphen"/>ed to acknowledge it; and according to your power make reſtitution: That the accurſed thing may not cleave unto you. Take heed that you <hi>grieve not the Spirit</hi> of God by unholy walking, left you <hi>provoke him to forſake you.</hi> To this end, watch over your
-<pb n="28" facs="tcp:023952_0026_0FC35AEED1999D80"/>
+<pb n="28" facs="unknown:023952_0026_0FC35AEED1999D80"/>
 heart, repreſs its firſt inclinations to ſin, and be watchful againſt temptations from without; fixing your eye eſpecially on the ſins with which you have heretofore been <hi>moſt eaſily beſet.</hi> If at any time ſin prevail againſt you, do not endeavour to forget it, or <hi>hide it in your boſom:</hi> But go to God immediately; take ſhame to yourſelf: plead the goſpel promiſes to returning ſinners, looking unto Jeſus Chriſt as your all-ſufficient ſacrifice, and <hi>advocate with the Father;</hi> and never ceaſe wreſtling with God in Prayer, until he again ſpeak peace to your troubled ſoul, and fill you with a greater fear of offending him.</p>
                <p>As I hope you are now planted in God's vineyard, <hi>Be fruitful.</hi> Bear on your heart a ſenſe of God's love to ſinners in Jeſus Chriſt. Conſider in particu<g ref="char:EOLhyphen"/>lar, what God hath done for you, in <hi>calling you out of darkneſs into his marvellous light.</hi> Remember how you lay faſt aſleep in ſin and fatal ſecurity, when God awaked you to ſee your danger and eſcape it. Think what would have been your condition in eter<g ref="char:EOLhyphen"/>nity, if God had leſt you to yourſelf. Think how many ſtill go on in the ſame fatal path in which you trod. And let the ſenſe of God's diſtinguiſhing love to you excite you to ſome return. <hi>Love him, becauſe he firſt loved you.</hi> And let love to your heavenly Fa<g ref="char:EOLhyphen"/>ther influence your <hi>thoughts</hi> and <hi>words,</hi> and <hi>actions.</hi>
                </p>
                <p>Let your <hi>meditations</hi> of God be ſweet and frequent. Lift up your heart to him <hi>that ſeeth in ſecret, and tri<g ref="char:EOLhyphen"/>eth the heart and reins.</hi> Seek a cloſe communion with the <hi>Father of your ſpirit:</hi> And to this end, endea<g ref="char:EOLhyphen"/>vour to withdraw your thoughts from worldly things, and to raiſe your affections from earth to heaven, to thoſe things, which are not ſeen but by the eyes of faith. That thus you may <hi>walk by faith,</hi> guided by it as the eye of the ſoul, and raiſed by it to <hi>heavenly-mindedneſs;</hi> ſo as to love and delight in God.</p>
                <p>Inſtead of your former vain <hi>converſation,</hi> hence<g ref="char:EOLhyphen"/>forth let your tongue be employed to God's glory; in <hi>ſpeaking good of his name;</hi> in prayer and praiſe
-<pb n="29" facs="tcp:023952_0027_0FC35AF008D01E68"/>
+<pb n="29" facs="unknown:023952_0027_0FC35AF008D01E68"/>
 to your great Benefactor; in telling others <hi>what he hath done for your ſoul;</hi> in warning ſinners of their danger, and encouraging them that fear God to be bold and hearty in his ſervice.</p>
                <p>And let your <hi>conduct in life</hi> be ſuch as becometh the goſpel. You are called to <hi>fight the good fight of faith;</hi> ſee that you <hi>faint not,</hi> neither be <hi>weary in well doing.</hi> Shew that you are <hi>alive unto GOD by living unto GOD,</hi> by devoting yourſelf to his ſervice, and by diligence therein. Do ſomething for him that hath done ſo much for you. Be loving unto all men, for they are the work of God's hands: Do good unto all men according to your ability. Your time and ſtrength, and every other talent<g ref="char:punc">▪</g> are given you to be improv<g ref="char:EOLhyphen"/>ed, lay them out in acts of charity and love. Let your heart be enlarged to all men, not excepting your enemies: <gap reason="illegible" resp="#UOM" extent="1 span">
                      <desc>〈…〉</desc>
@@ -745,7 +746,7 @@ to your great Benefactor; in telling others <hi>what he hath done for your ſoul
                         <desc>〈◊〉</desc>
                      </gap> cuſtom is due,</hi> as well as every other lawful debt: Not defrauding either the king or your fellow-ſub<g ref="char:EOLhyphen"/>jects, or any way of encouraging thoſe that do.</p>
                <p>Shew a particular regard for <hi>them that are of the houſhold of faith,</hi> all the ſincerely godly, for Chriſt's ſake. For as all men were originally created after God's image, in <hi>them</hi> is the image in ſome meaſure reſtored. Theſe therefore in a peculiar manner be<g ref="char:EOLhyphen"/>long to Chriſt, being waſhed from their ſins in his
-<pb n="30" facs="tcp:023952_0028_0FC35AF18F1FA0B8"/>
+<pb n="30" facs="unknown:023952_0028_0FC35AF18F1FA0B8"/>
 blood, and ſanctified by his Spirit. And to animate you to greater diligence in this work and labour of love, view often with the eyes of faith the glorious reward ſet before you, the eternal weight of glory to be beſtowed on that day when Chriſt ſhall reward acts of mercy and love, done in his name as if done to himſelf.</p>
                <p>Quickened by this principle, and encouraged by this proſpect, ſtrive to grow in knowledge, and puri<g ref="char:EOLhyphen"/>ty, and faith, and love, and godly fear; in meek<g ref="char:EOLhyphen"/>neſs, and every chriſtian grace. Study to promote God's glory, the welfare of all men, and ſuch a diſpoſition in your own ſoul, as may render you <hi>meet to be a partaker of the inheritance of the ſaints in light.</hi> And, in order to promote this work of ſanctification in you, wait for God's bleſſing and grace in a con<g ref="char:EOLhyphen"/>ſcientious uſe of the ordinances, in prayer public and private, hearing and reading God's word; and confirm your covenant with God at his table. Thus may you hope to be a fruitful vine, and experience in your ſoul thoſe bleſſings, which the prophet im<g ref="char:EOLhyphen"/>mediately adds to that promiſe of free mercy, in which you have found ſo much conſolation. <hi>Hoſea</hi> xiv. 5, 6, 7. <hi>I will be as the dew unto Iſrael. He ſhall grow as the lilly, and caſt forth his roots as Leba<g ref="char:EOLhyphen"/>non;</hi> growing upwards by faith and love, and down<g ref="char:EOLhyphen"/>wards by humility. <hi>His branches ſhall ſpread; and his beauty ſhall be as the olive-tree, and his ſmell as Le<g ref="char:EOLhyphen"/>banon. They that dwell under his ſhadow ſhall return</hi> from all their wanderings: <hi>They ſhall revive as the corn, and grow as the vine. The ſcent</hi> (or bloſſom) <hi>therefore ſhall be as the vine of</hi> Lebanon, beautiful, fruitful, and pleaſant in God's ſight.</p>
             </sp>
@@ -756,12 +757,12 @@ blood, and ſanctified by his Spirit. And to animate you to greater diligence in
             <sp>
                <speaker>M.</speaker>
                <p>You muſt expect many difficulties and much oppoſition. The way to heaven is the way of the croſs, and <hi>through much tribulation.</hi> The <hi>world</hi> and
-<pb n="31" facs="tcp:023952_0029_0FC35AF5EF9BE978"/>
+<pb n="31" facs="unknown:023952_0029_0FC35AF5EF9BE978"/>
                   <hi>fleſh</hi> and <hi>devil</hi> are ſtrong enemies, and they are cloſe<g ref="char:EOLhyphen"/>ly leagued together. Your own <hi>corrupt nature</hi> will be always near to tempt, to diſcourage, and draw you back; for this will ſtill be your burthen; your greateſt plague will be that of your own heart. And, as ſoon as you appear to be going out of the broad way, in which the generality walk to deſtruction, you muſt expect the <hi>world</hi> will be upon you. Not only the careleſs and prophane will ſneer and ridicule you, but the more decent <hi>formaliſts</hi> alſo will be high<g ref="char:EOLhyphen"/>ly offended. They will ſay in their hearts, as the Phariſees of old: In doing this, in going out of the common faſhionable road, and pretending to uncom<g ref="char:EOLhyphen"/>mon ſtrictneſs, <hi>thou condemneſt us alſo.</hi> And theſe his two allies, the world and the fleſh, <hi>the devil</hi> can manage with wonderful ſkill, and ſometimes throw in ſome evil thoughts himſelf. But be not diſcou<g ref="char:EOLhyphen"/>raged: God is above all. <hi>Chriſt ever liveth to make interceſſion for us,</hi> and to ſave in every difficulty thoſe <hi>that come unto God through him. Holy angels</hi> will be employed as your <hi>guardians;</hi> and all the truly <hi>godly</hi> will be your loving <hi>brethren</hi> and ready <hi>friends. They that are for</hi> you, <hi>are more than they that are againſt</hi> you. Be not your own enemy, and nothing can hurt you. However, <hi>Be not high-minded, but fear. Happy is the man that feareth always.</hi>
                </p>
             </sp>
             <trailer>FINIS.</trailer>
-            <pb facs="tcp:023952_0030_0FC35AFA72A0F3E8"/>
+            <pb facs="unknown:023952_0030_0FC35AFA72A0F3E8"/>
          </div>
       </body>
    </text>
